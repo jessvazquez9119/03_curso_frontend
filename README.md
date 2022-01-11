@@ -1,2 +1,2 @@
 # 03_curso_frontend
-notas y ejercicios
+notas y ejercicios xx
